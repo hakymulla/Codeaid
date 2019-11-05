@@ -22,10 +22,6 @@ from collections import Counter
 recycle = pd.DataFrame()
 checkpoint_ = {}
 
-
-# 2, 307,45
-
-
 class WorkSpace:
     """
     Create and manage a basic Worksspace.
